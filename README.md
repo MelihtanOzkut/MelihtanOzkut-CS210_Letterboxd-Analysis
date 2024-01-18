@@ -1,0 +1,3 @@
+# MelihtanOzkut-CS210_Letterboxd-Analysis
+
+In this project, I tried to access some facts about myself using the data from the letterboxd website, which I have been using for 2 years. The data on this website is based on the movies I have watched. Basically, what I do is to access this data, analyze the data on the data and reach my own new conclusions... and I basically developed this through the themes of the movies I watched, the scores I gave them, and the comments that other users gave to these movies. The scores also created a data set... In summary, I reached various conclusions by making various analyzes and statistical measurements with this data.
